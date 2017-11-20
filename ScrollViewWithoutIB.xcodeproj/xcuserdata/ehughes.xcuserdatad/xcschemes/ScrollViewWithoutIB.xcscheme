@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4B71F97E1FC24DD4003E6949"
+               BuildableName = "ScrollViewWithoutIB.app"
+               BlueprintName = "ScrollViewWithoutIB"
+               ReferencedContainer = "container:ScrollViewWithoutIB.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4B71F97E1FC24DD4003E6949"
+            BuildableName = "ScrollViewWithoutIB.app"
+            BlueprintName = "ScrollViewWithoutIB"
+            ReferencedContainer = "container:ScrollViewWithoutIB.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
